@@ -1,4 +1,4 @@
-# 🚀 ARCANE - Système Automatique de Génération de CV et Lettres de Motivation
+# Arcane
 
 **ARCANE** (Automated Resume and Cover letter ANalysis Engine) est un système intelligent modulaire qui automatise la création de CV personnalisés, lettres de motivation et préparation d'entretiens en utilisant l'IA Claude Sonnet 4.5.
 
